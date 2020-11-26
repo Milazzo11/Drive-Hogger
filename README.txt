@@ -5,4 +5,4 @@ The current program allows users to enter the amount of data they wish to fill a
 however it is quite easily edited to bypass user input and run indefinitely.
 
 The data.txt file is a copy of the Bee Movie script, and I claim no rights to this.  The contents of this file
-can be changed, however the multiplier on line [] must also be changed for the MB data count to be correctly recorded.
+can be changed, however the multiplier on line 24 must also be changed for the MB data count to be correctly recorded.
